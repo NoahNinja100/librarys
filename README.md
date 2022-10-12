@@ -2,6 +2,14 @@
 
 # Kavo - 
 ![2aazQL-340029106](https://user-images.githubusercontent.com/83727826/195341966-32a81293-a3ae-4cc8-92cd-6b581c1d6e5a.png)
+Features:
+Toggles
+Easy to use
+Sliders
+Buttons
+Keybinds
+Themes
+Dropdowns
 
 # Orion - 
 ![unknown](https://user-images.githubusercontent.com/83727826/195343223-8edcfbe0-9040-48a1-ae0e-0c9f0a07597c.png)
